@@ -1,4 +1,4 @@
-# Kariyer.net İlanları Çekme cURL Skripti
+# Kariyer.net İlanları Çekme cURL Scripti
 Bu script, Kariyer.net web sitesindeki en güncel iş ilanlarını çekmek için cURL (Client for URLs) kütüphanesini kullanır.
 
 # Kurulum
