@@ -11,4 +11,4 @@ Tarayıcınızda http://yoursite.com/kariyer_ilanlari.php adresini ziyaret edin.
 Bu skript, Kariyer.net'deki ilanları çekmek için cURL komutunu kullanır ve çekilen verileri ekranda görüntüler. İstediğiniz formatta işlem yapmak için çekilen verileri işleyebilirsiniz.
 
 # Lisans
-Bu skript MIT lisansı altında lisanslıdır. Detaylı bilgi için LICENSE dosyasını inceleyin.
+Bu script MIT lisansı altında lisanslıdır. Detaylı bilgi için LICENSE dosyasını inceleyin.
